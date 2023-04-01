@@ -1,0 +1,14 @@
+.card-header{
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Arial Narrow', sans-serif;
+    font-weight: bolder;
+}
+
+.page{
+    font-weight: bold;
+}
+
+#ans{
+    font-style: italic;
+}
